@@ -12,4 +12,4 @@ The ls command lists files and directories, and the -a flag ensures that hidden 
 
 3- Create a nested directory A/B/C/D/E:
 (mkdir -p A/B/C/D/E)
-The mkdir command is used to create directories, and the -p option allows you to create parent directories as needed, ensuring the entire nested structure is created.
+The mkdir command is used to create directories, and the -p option allows you to create parent directories as needed, ensuring the entire nested structure is created..
