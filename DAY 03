@@ -1,0 +1,21 @@
+Day 3: Fundamental Linux Commands
+
+1- To view what's written in a file?
+ANS: cat filename
+Replace "filename" with the name of the file you want to view.
+2- To change the access permissions of files?
+ANS: chmod permissions filename
+"permissions" represent the new permissions you want to set, which can be expressed in various ways. "filename" is the name of the file for which you want to change the permissions.
+3- To check which commands you have run till now?
+ANS: history
+This will display a list of the most recent commands you've executed, along with corresponding line numbers.
+4- To remove a directory/ Folder in Linux?
+ANS: 'rmdir' or 'rm' (rmdir directory_name) and for file (rm filename)
+5- To create a fruits.txt file in Linux?
+ANS: touch fruits.txt
+This will create an empty file with the specified name.
+6- Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava in Linux?
+ANS: echo -e "Apple\nMango\nBanana\nCherry\nKiwi\nOrange\nGuava" > devops.txt
+This command will add each fruit on a separate line in the "devops.txt" file.
+Alternatively, you can use a text editor like nano to manually add the content.
+(nano devops.txt)
