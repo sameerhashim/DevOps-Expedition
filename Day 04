@@ -1,0 +1,17 @@
+👨🏽‍💻 DAY 04: Basic Linux Shell Scripting for DevOps Engineers.
+
+1- What is Kernel?
+ANS: The Linux kernel is the core of the operating system that manages hardware, processes, memory, and device communication, enabling software to run on a computer.
+2- What is Shell?
+ANS: A shell in Linux is a command-line interface that lets you interact with the operating system by entering commands for tasks like running programs and managing files.
+3- What is Linux Shell Scripting?
+ANS: Linux shell scripting is the practice of writing and executing scripts in a shell language to automate tasks on a Linux system.
+
+TASK 🎯
+✏ Describe, in your own words and with examples, the concept of shell scripting in the context of DevOps
+✏ What is #!/bin/bash? can we write #!/bin/sh as well?
+✏ Write a Shell Script which prints I will complete #90DaysOofDevOps challenge.
+✏ Write a Shell Script to take user input, input from arguments and print the variables.
+✏ Write an Example of If else in Shell Scripting by comparing 2 numbers
+
+I have done my task and If you're finished with your task, please type 'done' in the comment.
